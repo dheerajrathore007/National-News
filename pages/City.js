@@ -57,9 +57,6 @@ searchFilterFunctions(txt){
  }
 
 }
-demoFunction(){
-  
-}
 
 
   //  let filterTracks = newdata.filter(item => {
